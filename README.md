@@ -11,7 +11,7 @@
 
 ## Project Background
   - ### 개요
-    - 심각한 사회적 문제로 대두되는 DDoS공격의 심각성 재고
+    - 사회적 문제로 대두되는 DDoS공격의 심각성 재고
     - 캡차 인증을 통한 악성 Bot 필터링
     - 트래픽변화량을 이용하여 SYN Flooding, UDP Flooding, Ping of Death 공격을 실시간 탐지
   - ### 필요성
